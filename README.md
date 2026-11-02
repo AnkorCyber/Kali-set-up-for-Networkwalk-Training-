@@ -46,3 +46,10 @@ process are available in the Screenshots folder.
 
 This assignment was completed as part of my
 Cybersecurity Internship at Networkwalks.
+
+## Video Demonstration
+
+Watch the video demonstration of my Kali Linux
+installation and configuration.
+
+[Click here to watch the Kali Linux Set([YOUR_VIDEO_LINK](https://youtu.be/jWUfxf-ryVc))
