@@ -75,7 +75,7 @@ process are available in the Screenshots folder.
 ![Kali Terminal](Screenshots/terminal.png)
 
 ### System Information
-![System Information](Screenshots/system-information.png)
+![System Information](kali2.png)
 
 ### Network Configuration
 ![Network Configuration](Screenshots/network-configuration.png)
