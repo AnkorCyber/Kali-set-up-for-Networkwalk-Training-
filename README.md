@@ -63,22 +63,11 @@ the system was properly installed and operational.
 
 ## Screenshots
 
-Screenshots documenting the setup and configuration
-process are available in the Screenshots folder.
-
-## Screenshots
-
 ### Kali Linux Desktop Environment
 ![Kali Desktop](kali1.png)
 
-### Terminal Configuration
-![Kali Terminal](sfeew)
-
 ### System Information
 ![System Information](kali2.png)
-
-### Network Configuration
-![Network Configuration](kali network configuration.png)
 
 ## Skills Acquired
 
