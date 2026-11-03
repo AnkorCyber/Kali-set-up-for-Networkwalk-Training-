@@ -1,3 +1,35 @@
+<div align="center">
+
+**Building an isolated virtual lab for penetration testing and ethical hacking practice**
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=000000" />
+
+<img src="https://img.shields.io/badge/SOC-Security_Operations_Center-0078D4?style=flat-square&logo=security&logoColor=white" />
+
+<img src="https://img.shields.io/badge/VirtualBox-7.2.6-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Kali_Linux-2026.2-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Skill-Linux-404040?style=flat-square&labelColor=000000" />
+
+<img src="https://img.shields.io/badge/Penetration_Testing-000000?style=flat-square&logo=kalilinux&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Skill-Virtualization-404040?style=flat-square&labelColor=000000" />
+
+<img src="https://img.shields.io/badge/GitHub-404040?style=flat-square&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Kali_Linux-404040?style=flat-square&logo=kalilinux&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Networkwalks-404040?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Ethical_Hacking-E87503?style=flat-square&logo=kalilinux&logoColor=white" />
+
+</p>
+
 # Kali Linux Setup and Configuration
 
 ## Project Overview
@@ -33,6 +65,20 @@ the system was properly installed and operational.
 
 Screenshots documenting the setup and configuration
 process are available in the Screenshots folder.
+
+## Screenshots
+
+### Kali Linux Desktop Environment
+![Kali Desktop](Screenshots/kali-desktop.png)
+
+### Terminal Configuration
+![Kali Terminal](Screenshots/terminal.png)
+
+### System Information
+![System Information](Screenshots/system-information.png)
+
+### Network Configuration
+![Network Configuration](Screenshots/network-configuration.png)
 
 ## Skills Acquired
 
