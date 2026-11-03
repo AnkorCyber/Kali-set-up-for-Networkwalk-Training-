@@ -69,7 +69,7 @@ process are available in the Screenshots folder.
 ## Screenshots
 
 ### Kali Linux Desktop Environment
-![Kali Desktop](Screenshots/kali-desktop.png)
+![Kali Desktop](kali1.png)
 
 ### Terminal Configuration
 ![Kali Terminal](Screenshots/terminal.png)
