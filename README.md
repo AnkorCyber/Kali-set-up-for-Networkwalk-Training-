@@ -72,13 +72,13 @@ process are available in the Screenshots folder.
 ![Kali Desktop](kali1.png)
 
 ### Terminal Configuration
-![Kali Terminal](Screenshots/terminal.png)
+![Kali Terminal](sfeew)
 
 ### System Information
 ![System Information](kali2.png)
 
 ### Network Configuration
-![Network Configuration](Screenshots/network-configuration.png)
+![Network Configuration](kali network configuration.png)
 
 ## Skills Acquired
 
